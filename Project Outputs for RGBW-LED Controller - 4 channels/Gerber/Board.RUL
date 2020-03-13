@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: C:\Users\ÀÑÊÐÎ\Documents\GitHub\RGBW-LED Controller - 4 channels\Board.PcbDoc
+RuleKind=Width|RuleName=VCC|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=+3.3|Scope=Board|Minimum=31.50
+RuleKind=Width|RuleName=+12|Scope=Board|Minimum=31.50
+RuleKind=Width|RuleName=GND|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
